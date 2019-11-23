@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to AlectronikForge
 
-You can use the [editor on GitHub](https://github.com/AlectronikForge/TestPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is still a placeholder, the actual content is in the making!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
